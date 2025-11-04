@@ -1,0 +1,11 @@
+"customer_id","pre_crisis_orders","crisis_orders","pre_crisis_revenue","crisis_revenue","pre_crisis_rating","crisis_rating","city","cuisine_type","avg_delivery_delay","order_decline_pct","rating_drop"
+"CUST076309","6","1","1737.73","588.13","4.27",NULL,"Hyderabad","Fast Food","-15.00","83.33",NULL
+"CUST076309","6","1","1737.73","588.13","4.27",NULL,"Chennai","Fast Food","-4.00","83.33",NULL
+"CUST076309","6","1","1737.73","588.13","4.27",NULL,"Kolkata","Biryani","32.00","83.33",NULL
+"CUST076309","6","1","1737.73","588.13","4.27",NULL,"Pune","Biryani","14.00","83.33",NULL
+"CUST076309","6","1","1737.73","588.13","4.27",NULL,"Ahmedabad","Desserts","-14.00","83.33",NULL
+"CUST076309","6","1","1737.73","588.13","4.27",NULL,"Bengaluru","South Indian","5.00","83.33",NULL
+"CUST076309","6","1","1737.73","588.13","4.27",NULL,"Delhi","Biryani","9.00","83.33",NULL
+"CUST033937","5","1","1828.23","325.76","4.07",NULL,"Kolkata","Biryani","7.00","80.00",NULL
+"CUST033937","5","1","1828.23","325.76","4.07",NULL,"Mumbai","Desserts","-8.00","80.00",NULL
+"CUST033937","5","1","1828.23","325.76","4.07",NULL,"Chennai","Pizza","15.00","80.00",NULL
