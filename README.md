@@ -6,7 +6,7 @@
 ---
 
 ### 🖼️ Dashboard Preview  
-![Restaurant Dashboard](dashboard_screenshot.png)
+![Restaurant Dashboard](https://raw.githubusercontent.com/Anuj-data/Crisis-impact-analysis/refs/heads/main/quickbite%20crisis%20dashboard.jpg)
 
 ---
 
